@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @muskan-alt
-- 👀 I’m interested in gaming, eating and sleeping
 - 🌱 I’m currently learning django, and a bit of flutter
 - 💞️ I’m looking to collaborate on ✨ everything ✨ and ✨ anything ✨
 - 📫 How to reach me - follow me on linkedin ✨ Muskan Rangnani ✨
